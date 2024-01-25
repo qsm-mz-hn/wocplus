@@ -1,7 +1,7 @@
 ## 🖥 说明
 - plus源小视频数据
 ```base
-https://gitee.com/qsmmzhn/wocplus/raw/master/wocplus.json
+https://github.com/qsm-mz-hn/wocplus/raw/master/wocplus.json
 ```
 
 
